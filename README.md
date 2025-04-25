@@ -1,8 +1,8 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
-Name : Priyanka A
+Name : Abdullah R 	
 
-Register number : 212222230113
+Register number : 212223230004
 
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
